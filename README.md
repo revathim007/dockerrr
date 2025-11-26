@@ -1,10 +1,5 @@
 # Docker Basic Linux Commands Demo
 
-**Last Date of Submission:** 28 Nov 2025
-
-This project demonstrates basic Linux command operations inside a Docker container and integrates version control using Git. The project showcases DevOps practices, containerization, and Linux command execution.
-
----
 
 ## Question 1: Five DevOps Concepts
 
